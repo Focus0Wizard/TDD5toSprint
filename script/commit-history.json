@@ -19,12 +19,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2abab7073959e2942b6742f3fa8cea89010e5e99",
     "author": "Focus0Wizard",
     "commit": {
       "date": "2026-05-27T21:33:02.000Z",
       "message": "Primera Iteracion: La calculadora deberia retornar 0",
-      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/2abab7073959e2942b6742f3fa8cea89010e5e99"
     },
     "stats": {
       "total": 26,
@@ -34,6 +34,25 @@
     },
     "coverage": 66.67,
     "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Focus0Wizard",
+    "commit": {
+      "date": "2026-05-27T21:38:22.000Z",
+      "message": "Segunda Iteracion: La calculadora deberia retornar el mismo numero",
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 6,
+      "deletions": 1,
+      "date": "2026-05-27"
+    },
+    "coverage": 100,
+    "test_count": 2,
     "failed_tests": 0,
     "conclusion": "success"
   }

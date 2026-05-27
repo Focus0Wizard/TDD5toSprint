@@ -30,9 +30,31 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2abab7073959e2942b6742f3fa8cea89010e5e99",
     "commitName": "Primera Iteracion: La calculadora deberia retornar 0",
     "commitTimestamp": 1779917582086,
     "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779917833302,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779917849655,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Segunda Iteracion: La calculadora deberia retornar el mismo numero",
+    "commitTimestamp": 1779917902153,
+    "testId": 2
   }
 ]
