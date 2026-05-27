@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "6535bfd55774afca9cbee17a454a22937f28f184",
     "author": "Focus0Wizard",
     "commit": {
       "date": "2026-05-27T21:28:07.000Z",
       "message": "log",
-      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/6535bfd55774afca9cbee17a454a22937f28f184"
     },
     "stats": {
       "total": 0,
@@ -14,6 +14,25 @@
       "date": "2026-05-27"
     },
     "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Focus0Wizard",
+    "commit": {
+      "date": "2026-05-27T21:33:02.000Z",
+      "message": "Primera Iteracion: La calculadora deberia retornar 0",
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 12,
+      "deletions": 14,
+      "date": "2026-05-27"
+    },
+    "coverage": 66.67,
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
