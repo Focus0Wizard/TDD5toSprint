@@ -52,9 +52,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a74b3c2af976efe9d4a4dfe1ee6cff2818083786",
     "commitName": "Segunda Iteracion: La calculadora deberia retornar el mismo numero",
     "commitTimestamp": 1779917902153,
     "testId": 2
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779918165742,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Tercera Iteracion: La calculadora retorna la suma de dos numeros separados por coma",
+    "commitTimestamp": 1779918231952,
+    "testId": 3
   }
 ]
