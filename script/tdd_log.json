@@ -88,9 +88,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "679262a627ffeef1a1a027d2e3a49a02ac26aa44",
     "commitName": "Cuarta Iteracion: La calculadora retorna la suma de varios numeros usando comas o guiones",
     "commitTimestamp": 1779933370578,
     "testId": 4
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779933576975,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Quinta Iteracion: La calculadora ignora numeros mayores a 1000",
+    "commitTimestamp": 1779933616960,
+    "testId": 5
   }
 ]

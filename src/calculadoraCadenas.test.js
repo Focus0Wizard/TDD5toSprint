@@ -16,4 +16,9 @@ describe("Calculadora de Cadenas", () => {
   it("debería sumar varios números usando comas y guiones como separadores", () => {
     expect(calculadora("1-2,3,4")).toEqual(10);
   });
+
+  it("debería ignorar los números mayores a 1000", () => {
+    expect(calculadora("2,1001,3")).toEqual(5);
+  });
+  
 });

@@ -76,12 +76,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "679262a627ffeef1a1a027d2e3a49a02ac26aa44",
     "author": "Focus0Wizard",
     "commit": {
       "date": "2026-05-28T01:56:10.000Z",
       "message": "Cuarta Iteracion: La calculadora retorna la suma de varios numeros usando comas o guiones",
-      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/679262a627ffeef1a1a027d2e3a49a02ac26aa44"
     },
     "stats": {
       "total": 14,
@@ -91,6 +91,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Focus0Wizard",
+    "commit": {
+      "date": "2026-05-28T02:00:16.000Z",
+      "message": "Quinta Iteracion: La calculadora ignora numeros mayores a 1000",
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+    },
+    "stats": {
+      "total": 15,
+      "additions": 12,
+      "deletions": 3,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
