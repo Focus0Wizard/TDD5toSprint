@@ -102,9 +102,23 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "dec6cba8dcf24582632e6b07a1420fd39418d287",
     "commitName": "Quinta Iteracion: La calculadora ignora numeros mayores a 1000",
     "commitTimestamp": 1779933616960,
     "testId": 5
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779933803790,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Sexta Iteracion: La calculadora deberia soportar delimitador personalizado",
+    "commitTimestamp": 1779933865130,
+    "testId": 6
   }
 ]

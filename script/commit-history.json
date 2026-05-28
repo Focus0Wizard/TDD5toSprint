@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "dec6cba8dcf24582632e6b07a1420fd39418d287",
     "author": "Focus0Wizard",
     "commit": {
       "date": "2026-05-28T02:00:16.000Z",
       "message": "Quinta Iteracion: La calculadora ignora numeros mayores a 1000",
-      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/dec6cba8dcf24582632e6b07a1420fd39418d287"
     },
     "stats": {
       "total": 15,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Focus0Wizard",
+    "commit": {
+      "date": "2026-05-28T02:04:25.000Z",
+      "message": "Sexta Iteracion: La calculadora deberia soportar delimitador personalizado",
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+    },
+    "stats": {
+      "total": 26,
+      "additions": 23,
+      "deletions": 3,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }

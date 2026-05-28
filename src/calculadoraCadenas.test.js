@@ -20,5 +20,10 @@ describe("Calculadora de Cadenas", () => {
   it("debería ignorar los números mayores a 1000", () => {
     expect(calculadora("2,1001,3")).toEqual(5);
   });
-  
+
+  it("debería soportar un delimitador personalizado de cualquier longitud", () => {
+    expect(calculadora("//[;] 6;7;4")).toEqual(17);
+    expect(calculadora("//[***] 1***2***3")).toEqual(6);
+  });
+
 });
