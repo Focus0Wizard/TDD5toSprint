@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "099ebcbe97fe67adf0a6a5e930bbc0f75f4630df",
     "author": "Focus0Wizard",
     "commit": {
       "date": "2026-05-28T02:04:25.000Z",
       "message": "Sexta Iteracion: La calculadora deberia soportar delimitador personalizado",
-      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/099ebcbe97fe67adf0a6a5e930bbc0f75f4630df"
     },
     "stats": {
       "total": 26,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Focus0Wizard",
+    "commit": {
+      "date": "2026-05-28T02:09:09.000Z",
+      "message": "Septima Iteracion: La calculadora deberia soportar mas de un delimitador personalizado",
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 12,
+      "deletions": 4,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }

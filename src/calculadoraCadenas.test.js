@@ -26,4 +26,8 @@ describe("Calculadora de Cadenas", () => {
     expect(calculadora("//[***] 1***2***3")).toEqual(6);
   });
 
+  it("debería soportar múltiples delimitadores personalizados", () => {
+    expect(calculadora("//[*][%] 1*2%3,7-9")).toEqual(22);
+  });
+
 });

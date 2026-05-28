@@ -8,11 +8,15 @@ function calculadora(cadena) {
     const partes = cadena.split(" ");
     const encabezado = partes[0]; 
     cadenaDeNumeros = partes.slice(1).join(" "); 
-
-    const delim = encabezado.match(/\[(.*?)\]/)[1];
+    const coincidencias = encabezado.match(/\[(.*?)\]/g);
     
-    const delimEscapado = delim.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-    separadores.push(delimEscapado);
+    if (coincidencias) {
+      coincidencias.forEach(c => {
+        const delim = c.slice(1, -1);
+        const delimEscapado = delim.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+        separadores.push(delimEscapado);
+      });
+    }
   }
 
   const regex = new RegExp(separadores.join("|"));

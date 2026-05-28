@@ -116,9 +116,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "099ebcbe97fe67adf0a6a5e930bbc0f75f4630df",
     "commitName": "Sexta Iteracion: La calculadora deberia soportar delimitador personalizado",
     "commitTimestamp": 1779933865130,
     "testId": 6
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779934105472,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Septima Iteracion: La calculadora deberia soportar mas de un delimitador personalizado",
+    "commitTimestamp": 1779934149494,
+    "testId": 7
   }
 ]
