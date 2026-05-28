@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "71e4a7665cab4173f0d020110bd5d350059530a1",
     "author": "Focus0Wizard",
     "commit": {
       "date": "2026-05-27T21:43:51.000Z",
       "message": "Tercera Iteracion: La calculadora retorna la suma de dos numeros separados por coma",
-      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/71e4a7665cab4173f0d020110bd5d350059530a1"
     },
     "stats": {
       "total": 12,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 3,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Focus0Wizard",
+    "commit": {
+      "date": "2026-05-28T01:56:10.000Z",
+      "message": "Cuarta Iteracion: La calculadora retorna la suma de varios numeros usando comas o guiones",
+      "url": "https://github.com/Focus0Wizard/TDD5toSprint/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 7,
+      "deletions": 7,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 4,
     "failed_tests": 0,
     "conclusion": "success"
   }

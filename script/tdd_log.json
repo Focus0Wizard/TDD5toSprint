@@ -66,9 +66,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "71e4a7665cab4173f0d020110bd5d350059530a1",
     "commitName": "Tercera Iteracion: La calculadora retorna la suma de dos numeros separados por coma",
     "commitTimestamp": 1779918231952,
     "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779933266387,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779933324222,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "Cuarta Iteracion: La calculadora retorna la suma de varios numeros usando comas o guiones",
+    "commitTimestamp": 1779933370578,
+    "testId": 4
   }
 ]

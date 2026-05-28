@@ -13,4 +13,7 @@ describe("Calculadora de Cadenas", () => {
     expect(calculadora("1,2")).toEqual(3);
   });
 
+  it("debería sumar varios números usando comas y guiones como separadores", () => {
+    expect(calculadora("1-2,3,4")).toEqual(10);
+  });
 });
